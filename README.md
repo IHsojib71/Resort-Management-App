@@ -4,7 +4,6 @@ How to run this
 3) Run these commands on project directory require (PHP v8.0.2)
 ```
 composer install
-
 ```
 ```
 php artisan key:generate
